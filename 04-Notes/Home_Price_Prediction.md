@@ -11,7 +11,7 @@ Predict house price based on area using linear regression.
 - Linear Regression (from sklearn)
 
 ## 🔧 Libraries Used
-- pandas, matplotlib, sklearn, joblib
+- pandas, matplotlib, sklearn
 
 ## 🧪 Results
 - Trained model
